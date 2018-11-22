@@ -1,0 +1,14 @@
+{
+  "name": "webdriver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "serve": "http-serve public",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "browserevent": "^0.2.0",
+    "webdriverio": "^4.14.0"
+  }
+}
